@@ -1,0 +1,31 @@
+_repo: Fragments-of-voyages-and-travels-including-anecdotes-of-a-naval-life-b-Chiefly-for-the-use-of__71944
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hall, Basil
+    alias: Hall, Basilio
+    birthdate: 1788
+    deathdate: 1844
+    gutenberg_agent_id: '7097'
+    url: http://www.gutenberg.org/2009/agents/7097
+    wikipedia: https://en.wikipedia.org/wiki/Basil_Hall
+description: ''
+gutenberg_issued: '2023-10-23'
+identifiers:
+  gutenberg: '71944'
+language: en
+pgterms:marc905: 20230218110105hall
+pgterms:marc906: '1831'
+pgterms:marc907: GB
+production_note: Bob Taylor, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bRobert Cadell, Edinburgh, $c1831.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fragments of voyages and travels, including anecdotes of a naval life : $b
+  Chiefly for the use of young persons'
+url: http://www.gutenberg.org/ebooks/71944
